@@ -1,5 +1,5 @@
 baseURL = "https://de.shoogle.net/bremen"
-languageCode = "de-DE"
+languageCode = "de"
 title = "Bremen"
 theme = "ln-base"
 
