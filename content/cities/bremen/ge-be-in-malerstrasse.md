@@ -1,5 +1,5 @@
 ---
-title: "GE-BE-IN"
+title: "Ge Be In"
 url: /bremen/ge-be-in/
 shop: Bestattungen
 ---
