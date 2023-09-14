@@ -1,5 +1,5 @@
 ---
 title: "Back-Factory"
-url: /bremen/back-factory/
+url: /bremen/back-factory-hutfilterstrasse/
 shop: Bäckerei
 ---

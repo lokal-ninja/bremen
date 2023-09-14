@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /bremen/vodafone/
+url: /bremen/vodafone-hans-bredow-strasse/
 shop: Handy
 ---

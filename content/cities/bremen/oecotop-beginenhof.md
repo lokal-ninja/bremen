@@ -1,5 +1,5 @@
 ---
 title: "Oecotop"
-url: /bremen/oecotop/
+url: /bremen/oecotop-beginenhof/
 shop: Lebensmittel
 ---
