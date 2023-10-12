@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /bremen/rewe-kulenkampffallee/
+url: /bremen/rewe-kalmsweg/
 shop: Supermarkt
 ---
