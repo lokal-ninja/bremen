@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /bremerhaven/aldi/
+url: /bremen/aldi-vahrer-strasse/
 shop: Supermarkt
 ---
