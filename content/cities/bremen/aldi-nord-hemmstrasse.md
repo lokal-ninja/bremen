@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /bremen/aldi-nord-weserstrandstrasse/
+url: /bremen/aldi-nord-hemmstrasse/
 shop: Supermarkt
 ---
