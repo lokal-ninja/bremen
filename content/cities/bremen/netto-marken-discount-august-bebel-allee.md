@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /bremen/netto-marken-discount-burger-heerstrasse/
+url: /bremen/netto-marken-discount-august-bebel-allee/
 shop: Supermarkt
 ---
