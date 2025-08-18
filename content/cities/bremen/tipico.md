@@ -1,5 +1,5 @@
 ---
-title: "tipico"
+title: "Tipico"
 url: /bremen/tipico/
 shop: Wettbüro
 ---
