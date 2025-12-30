@@ -1,5 +1,5 @@
 ---
-title: "Weigel"
+title: "weigel"
 url: /bremen/weigel/
-shop: Großhandel
+shop: Farben
 ---
