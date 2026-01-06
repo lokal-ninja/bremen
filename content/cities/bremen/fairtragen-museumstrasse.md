@@ -1,5 +1,5 @@
 ---
 title: "fairtragen"
-url: /bremen/fairtragen-ostertorsteinweg/
+url: /bremen/fairtragen-museumstrasse/
 shop: Kleidung
 ---
