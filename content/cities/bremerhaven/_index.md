@@ -1,6 +1,6 @@
 ---
 title: Bremerhaven
 url: /bremerhaven/
-latitude: 53.549
-longitude: 8.577
+latitude: 53.508
+longitude: 8.598
 ---
